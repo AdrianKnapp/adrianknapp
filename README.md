@@ -1,4 +1,4 @@
-### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
+## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
 
 My name is Adrian and I'm Full Stack developer focusing in front-end. <br/>
 
@@ -15,7 +15,7 @@ My name is Adrian and I'm Full Stack developer focusing in front-end. <br/>
 ![JQuery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=7159c1)
 ![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7159c1)
 
-## My Stats
+### My Stats
 <p>
 <a href="https://github.com/adrianknapp">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianknapp&theme=radical&layout=compact&exclude_lang=java+r" />
