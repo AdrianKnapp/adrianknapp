@@ -12,10 +12,9 @@ My name is Adrian and I'm Full Stack developer focusing in front-end. <br/>
 <br/>
 ![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7159c1)
 ![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7159c1)
-![JQuery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=7159c1)
+![jQuery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=7159c1)
 ![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7159c1)
 ![Sass](https://img.shields.io/badge/-sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=7159c1)
-![Figma](https://img.shields.io/badge/-figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=7159c1)
 
 ### My Stats
 <p>
