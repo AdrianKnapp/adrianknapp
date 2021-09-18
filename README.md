@@ -6,15 +6,16 @@ My name is Adrian and I'm Full Stack developer focusing in front-end. <br/>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=7159c1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7159c1)
-![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
-![styled components](https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7159c1)
-<br/>
-![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7159c1)
-![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=7159c1)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7159c1)
-![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7159c1)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7159c1)
+![TypeScript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=7159c1)
+![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
+<br/>
+![styled components](https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7159c1)
 ![jQuery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=7159c1)
+![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7159c1)
+![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7159c1)
+![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=7159c1)
 ![Sass](https://img.shields.io/badge/-sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=7159c1)
 
 ### My Stats
