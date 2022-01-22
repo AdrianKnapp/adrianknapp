@@ -1,6 +1,6 @@
 ## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
 
-My name is Adrian and I'm Front-end Stack developer focusing in front-end. <br/>
+My name is Adrian and I'm Front-end Stack developer. <br/>
 
 ### Languages, libraries and frameworks that I use:
 
