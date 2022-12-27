@@ -1,34 +1,31 @@
-## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile
+### Hi, I'm Adrian! &nbsp;&nbsp;👾 &#12299;I solve people and enterprise problems through technology and innovation.
 
-My name is Adrian and I'm Front-end Stack developer. <br/>
+----
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![node](https://img.shields.io/static/v1?logo=node.js&label=&message=node&color=36465D&logoColor=AAA&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![react.js](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square&link=)
+![next.js](https://img.shields.io/static/v1?logo=next.js&label=&message=next.js&color=36465D&logoColor=AAA&style=flat-square&link=)
+![remix](https://img.shields.io/static/v1?logo=remix&label=&message=remix&color=36465D&logoColor=AAA&style=flat-square&link=)
+![jest](https://img.shields.io/static/v1?logo=jest&label=&message=jest&color=36465D&logoColor=AAA&style=flat-square&link=)
+![redux](https://img.shields.io/static/v1?logo=redux&label=&message=redux&color=36465D&logoColor=AAA&style=flat-square&link=)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square&link=)
+![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=36465D&logoColor=AAA&style=flat-square&link=)
+![tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwind&color=36465D&logoColor=AAA&style=flat-square&link=)
 
-### Languages, libraries and frameworks that I use:
+**Mid Level Front-end ReactJS** &#12299;_Working developing pages, complex components, new features, and solving problems._
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=7159c1)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7159c1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7159c1)
-![TypeScript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=7159c1)
-![React](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
-<br/>
-![styled components](https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7159c1)
-![jQuery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=7159c1)
-![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7159c1)
-![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7159c1)
-![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=7159c1)
-![Sass](https://img.shields.io/badge/-sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=7159c1)
+----
 
-### My Stats
-
-<p>
-<a href="https://github.com/adrianknapp">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianknapp&theme=radical&layout=compact&exclude_lang=java+r" />
+<a href="https://twitter.com/vibeknapp">
+  <img align="left" alt="Adrian's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-</p>
-
-### How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrknapp/)](https://www.linkedin.com/in/adrknapp/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-7159c1?style=flat-square&labelColor=7159c1&logo=twitter&logoColor=white&link=https://twitter.com/vibeknapp)](https://twitter.com/vibeknapp)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-7159c1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrknapp@gmail.com)](mailto:adrknapp@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&labelColor=7159c1&logo=instagram&logoColor=white&link=https://www.instagram.com/vibeknapp/)](https://www.instagram.com/vibeknapp/)
+<a href="httpshttps://www.instagram.com/adrknapp/">
+  <img align="left" alt="Adrian's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/adrknapp/">
+  <img align="left" alt="Adrian's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
