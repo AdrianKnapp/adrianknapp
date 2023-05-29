@@ -16,7 +16,7 @@
 ![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwind&color=36465D&logoColor=AAA&style=flat-square&link=)
 
-**Mid Level Front-end ReactJS** &#12299;_Working developing pages, complex components, new features, and solving problems._
+**Front-end Developer** &#12299;_Working developing pages, complex components, new features, and solving problems._
 
 ----
 
