@@ -19,10 +19,13 @@
 **Front-end Developer** | Working developing pages, complex components, new features, and solving problems.
 
 ----
-
+<!--  
 <a href="https://twitter.com/vibeknapp">
-  <img align="left" alt="Adrian's Twitter" width="20px" src="https://pbs.twimg.com/profile_images/1731507665610682368/q1xg06lF_400x400.jpg" />
-</a>
+ <img align="left" alt="Adrian's Twitter" width="20px" src="https://pbs.twimg.com/profile_images/1731507665610682368/q1xg06lF_400x400.jpg" />
+</a> 
+-->
+
+
 <a href="https://www.instagram.com/adrknapp/">
   <img align="left" alt="Adrian's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
