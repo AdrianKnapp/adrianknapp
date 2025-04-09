@@ -16,19 +16,3 @@
 ![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![tailwind](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwind&color=36465D&logoColor=AAA&style=flat-square&link=)
 
-**Front-end Developer** | Working developing pages, complex components, new features, and solving problems.
-
-----
-<!--  
-<a href="https://twitter.com/vibeknapp">
- <img align="left" alt="Adrian's Twitter" width="20px" src="https://pbs.twimg.com/profile_images/1731507665610682368/q1xg06lF_400x400.jpg" />
-</a> 
--->
-
-
-<a href="https://www.instagram.com/adrknapp/">
-  <img align="left" alt="Adrian's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://www.linkedin.com/in/adrknapp/">
-  <img align="left" alt="Adrian's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
